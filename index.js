@@ -17,6 +17,19 @@ async function main() {
         },
     });
     console.log(usersCalledAlice);
+
+    //Fetch Single User
+    const user = await prisma.user({ id: 'ck5cp3juh0016071510rcwepy' })
+
+    //Update User Name
+    const updatedUser = await prisma.updateUser({
+        where: { id: 'ck5cp3juh0016071510rcwepy' },
+        data: { name: 'Bob' },
+    })
+
+    //Delete User
+    const deletedUser = await prisma.deleteUser({ id: 'ck5cp3juh0016071510rcwepy' })
+
 }
 
 
