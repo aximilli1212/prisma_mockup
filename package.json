@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aximilli1212/prisma_mockup/issues"
   },
-  "homepage": "https://github.com/aximilli1212/prisma_mockup#readme"
+  "homepage": "https://github.com/aximilli1212/prisma_mockup#readme",
+  "dependencies": {
+    "prisma-client-lib": "^1.34.10"
+  }
 }
