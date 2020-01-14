@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c804f6d2-4642-47a1-8e3d-20654d64d3a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/prisma-client/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/generated/prisma-client/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/prisma-client/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/generated/prisma-client/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/prisma-client/prisma-schema.js" beforeDir="false" afterPath="$PROJECT_DIR$/generated/prisma-client/prisma-schema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578931112954</updated>
       <workItem from="1578931114060" duration="9207000" />
+      <workItem from="1578953194068" duration="599000" />
     </task>
     <servers />
   </component>
@@ -58,7 +56,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
